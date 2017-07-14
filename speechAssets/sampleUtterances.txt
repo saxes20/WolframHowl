@@ -1,0 +1,4 @@
+AskQuestionIntent {do something | answer}
+AskQuestionIntent {who is chris paul | answer}
+AskQuestionIntent {what is 3 plus 5 | answer}
+AMAZON.HelpIntent how do I use this

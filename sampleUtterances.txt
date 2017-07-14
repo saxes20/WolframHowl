@@ -1,0 +1,17 @@
+AskQuestionIntent {a|itema} 
+AskQuestionIntent {a|itema} {b|itemb} 
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} 
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} 
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} 
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj} {k|itemk}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj} {k|itemk} {l|iteml}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj} {k|itemk} {l|iteml} {m|itemm}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj} {k|itemk} {l|iteml} {m|itemm} {n|itemn}
+AskQuestionIntent {a|itema} {b|itemb} {c|itemc} {d|itemd} {e|iteme} {f|itemf} {g|itemg} {j|itemj} {h| itemh} {i|itemi} {j|itemj} {k|itemk} {l|iteml} {m|itemm} {n|itemn} {o|itemo}
+AMAZON.HelpIntent how do I use this

@@ -1,0 +1,78 @@
+{
+  "intents": [
+    {
+      "intent": "AskQuestionIntent",
+      "slots": [
+        {
+          "name": "itema",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemb",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemc",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemd",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "iteme",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemf",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemg",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemh",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemi",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemj",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemk",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "iteml",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemm",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemn",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "itemo",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
